@@ -1,0 +1,7 @@
+Another text file with different words for similarity comparison. Erbol
+This file also has unique words not present in the first file. Erbol
+.chgchg
+Objective: In this assignment, you will work with Java's Object-Oriented
+Programming (OOP) concepts to read text from a file, find distinct words,
+and calculate a similarity value using a simple formula. Follow these steps
+to complete the assignment:

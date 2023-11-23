@@ -1,0 +1,20 @@
+This is a sample text file for testing WordProcessor. Erbol
+It contains some words that will be used to calculate similarity. Erbol ruytyt
+Create another class named SimilarityCalculator.
+
+Another text file with different words for similarity comparison. Erbol
+This file also has unique words not present in the first file. Erbol
+.chgchg
+Objective: In this assignment, you will work with Java's Object-Oriented
+Programming (OOP) concepts to read text from a file, find distinct words,
+and calculate a similarity value using a simple formula. Follow these steps
+to complete the assignment:
+
+Jaccard Similarity = (Intersection of Set1 and Set2) / (Union of Set1 and Set2)
+
+Calculate the Jaccard similarity between the sets of distinct words obtained from
+two different files.
+
+The Jaccard similarity coefficient ranges from 0 to 1, where 0 indicates no similarity,
+ and 1 indicates complete similarity. In other words, the closer the coefficient is to 1,
+ the more similar the sets are, and the closer it is to 0, the less similar they are.
